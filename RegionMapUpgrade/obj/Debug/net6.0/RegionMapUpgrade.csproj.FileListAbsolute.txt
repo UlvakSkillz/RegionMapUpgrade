@@ -97,3 +97,4 @@ C:\Users\austi\source\repos\RegionMapUpgrade\RegionMapUpgrade\obj\Debug\net6.0\R
 C:\Users\austi\source\repos\RegionMapUpgrade\RegionMapUpgrade\obj\Debug\net6.0\refint\RegionMapUpgrade.dll
 C:\Users\austi\source\repos\RegionMapUpgrade\RegionMapUpgrade\obj\Debug\net6.0\RegionMapUpgrade.pdb
 C:\Users\austi\source\repos\RegionMapUpgrade\RegionMapUpgrade\obj\Debug\net6.0\ref\RegionMapUpgrade.dll
+C:\Users\austi\source\repos\RegionMapUpgrade\RegionMapUpgrade\obj\Debug\net6.0\RegionMapUpgrade.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RegionMapUpgrade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+955bc014d1e17511a5ec11cf44b08c6d3d358d1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("RegionMapUpgrade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RegionMapUpgrade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
