@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{72F55761-7C11-4AAD-8D94-D3D26BD6BBFF}|RegionMapUpgrade\\RegionMapUpgrade.csproj|c:\\users\\austi\\source\\repos\\regionmapupgrade\\regionmapupgrade\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72F55761-7C11-4AAD-8D94-D3D26BD6BBFF}|RegionMapUpgrade\\RegionMapUpgrade.csproj|solutionrelative:regionmapupgrade\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72F55761-7C11-4AAD-8D94-D3D26BD6BBFF}|RegionMapUpgrade\\RegionMapUpgrade.csproj|c:\\users\\austi\\source\\repos\\regionmapupgrade\\regionmapupgrade\\regionmapupgrade.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{72F55761-7C11-4AAD-8D94-D3D26BD6BBFF}|RegionMapUpgrade\\RegionMapUpgrade.csproj|solutionrelative:regionmapupgrade\\regionmapupgrade.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegionMapUpgrade",
-              "DocumentMoniker": "C:\\Users\\austi\\source\\repos\\RegionMapUpgrade\\RegionMapUpgrade\\RegionMapUpgrade.csproj",
-              "RelativeDocumentMoniker": "RegionMapUpgrade\\RegionMapUpgrade.csproj",
-              "ToolTip": "C:\\Users\\austi\\source\\repos\\RegionMapUpgrade\\RegionMapUpgrade\\RegionMapUpgrade.csproj",
-              "RelativeToolTip": "RegionMapUpgrade\\RegionMapUpgrade.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-21T03:42:51.746Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -55,7 +40,7 @@
               "RelativeDocumentMoniker": "RegionMapUpgrade\\Main.cs",
               "ToolTip": "C:\\Users\\austi\\source\\repos\\RegionMapUpgrade\\RegionMapUpgrade\\Main.cs",
               "RelativeToolTip": "RegionMapUpgrade\\Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T03:40:02.327Z",
               "EditorCaption": ""
